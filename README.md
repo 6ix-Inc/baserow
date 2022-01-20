@@ -1,4 +1,4 @@
-# Baserow
+# 6ixtables
 
 Open source no-code database tool and Airtable alternative. Join our forum on
 https://community.baserow.io/ or on Gitter via
